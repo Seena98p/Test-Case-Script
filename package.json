@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "cypress": "^13.16.1"
+  },
+  "name": "register_case",
+  "version": "1.0.0",
+  "description": "for run script test case register",
+  "main": "index.js",
+  "devDependencies": {
+    "@faker-js/faker": "^9.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC"
+}
